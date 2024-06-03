@@ -3,7 +3,7 @@ This script reads URLs from standard input and issues HTTP requests to them. It 
 
 # Installation
 ```
-https://github.com/XJOKZVO/mas.git
+git clone https://github.com/XJOKZVO/mas.git
 ```
 
 # Options:
